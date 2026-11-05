@@ -1,1 +1,1 @@
-# Filmdatabas, där det är möjligt att lägga till eller plocka bort sedda filmer
+# "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
